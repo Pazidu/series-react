@@ -1,0 +1,37 @@
+.header{
+    background-color: black;
+    color: aliceblue;
+}
+
+.oscar2024Videos{
+    display: flex;
+    align-content: center;
+}
+
+.titles{
+    font-size: 25px;
+    color: coral;
+    font-weight: bold;
+}
+
+.oscarTopicDescription{
+    font-size: 15px;
+}
+
+.oscar2024Videos{
+    margin-top: 20px;
+}
+
+.oscar2024Videos{
+    justify-content: space-between;
+}
+.carsBody1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.carsBody2{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}

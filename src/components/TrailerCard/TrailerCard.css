@@ -1,0 +1,71 @@
+.trailerContainer{
+    width: 100%;
+    text-decoration: none;
+}
+
+.trailerVideoThumbnil{
+    width: 400px;
+    height: 250px;
+}
+
+.playIcon{
+    width: 32px;
+    height: 32px;
+}
+
+.bottomCard{
+    display: flex;
+    
+}
+
+.trailerText{
+    color: aliceblue;
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.playIcon{
+    margin-top: 10px;
+}
+
+.trailerTime{
+    font-size: 20px;
+}
+
+.trailerDescription{
+    font-size: 15px;
+}
+
+.trailerTitle{
+    font-size: 22px;
+}
+
+.trailerCardBar{
+    display: flex;
+    flex: 3;
+    align-items: center;
+    margin-top: 10px;
+    width: 95%;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.trailerContainer{
+    width: 420px;
+    flex: 1;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 5px 2px rgba(0,0,0,0.19); 
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 5px 2px rgba(0,0,0,0.19);
+    border-radius: 10px;
+    
+}
+
+.trailerContainer:hover{
+    background-color: rgb(162, 162, 162);
+}
+
+.trailerContainerInside{
+    margin-left: 42px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}

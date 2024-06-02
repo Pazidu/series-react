@@ -1,0 +1,63 @@
+.fullLogin{
+    display: flex;
+    align-items: center;
+}
+
+.RegistationFileContainer{
+    color: white;
+    padding-bottom: 52px;
+    -webkit-box-shadow: 5px 5px 26px 0px rgba(0,0,0,0.26); 
+    box-shadow: 5px 5px 26px 0px rgba(0,0,0,0.26);
+    background-color: rgb(95, 95, 95);
+}
+.LoginFormContainer{
+    padding-top: 40px;
+    padding-bottom: 112px;
+}
+.registationHeader{
+    padding-top: 5px;
+    font-size: 30px;
+    color: orange;
+    margin-left: 710px;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.loginButton{
+    margin-top: 5px;
+    margin-left: 165px;
+    width: 170px;
+    margin-top: 15px;
+}
+
+.insideFormContainer{
+    margin-left: 500px;
+    margin-right: 500px;
+    
+}
+
+.forgotPasswordText{
+    font-size: 15px;
+    color: rgb(255, 204, 0);
+    margin-left: 190px;
+    margin-bottom: 20px;
+}
+
+.haventAccountYetTest{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    margin-left: 180px;
+    margin-bottom: 20px;
+}
+
+.createNewAccountButton{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 168, 53);
+    border: none;
+    margin-left: 136px;
+    width: 230px;
+}
+.createNewAccountButton:hover{
+    color: aliceblue;
+    background-color: rgb(179, 118, 38);
+}

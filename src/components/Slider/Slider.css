@@ -1,0 +1,16 @@
+.image{
+    /* margin-left: 170px; */
+    height: 600px;
+    width: 100%;
+}
+
+.captionName{
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.captionDetails{
+    color: aliceblue;
+}

@@ -1,0 +1,50 @@
+.toWatchImage{
+    height: 400px;
+    width: 100%;
+}
+
+.toWatchCardProperties{
+    width: 250px;
+    color: aliceblue;
+    margin-right: 40px;
+    cursor: pointer;
+}
+
+.imdb{
+    display: flex;
+    align-items: center;
+}
+
+.imdbNumber{
+    margin-left: 5px;
+}
+.playTrailerButton{
+    display: flex;
+    align-items: center;
+    height: 25px;
+    background-color: #212529;
+    border: none;
+    margin-top: 10px;
+}
+.playTrailerButton:hover{
+    background-color: orange;
+    color: black;
+}
+.playTrailer{
+    display: flex;
+    align-items: center;
+}
+.addToListButton{
+    background-color: aliceblue;
+    color: black;
+    border: none;
+    margin-bottom: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    height: 40px;
+    padding: 10px;
+}
+.addToListButton:hover{
+    background-color: black;
+    color: aliceblue;
+}

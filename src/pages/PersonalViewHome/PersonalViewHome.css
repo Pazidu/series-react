@@ -1,0 +1,52 @@
+.Home{
+    background-color: black;
+}
+
+.watchTrailersConteiner{
+    margin-top: 90px;
+}
+.watchTrailerTitle{
+    color: rgb(255, 183, 0);
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-left: 60px;
+}
+
+.trailerCards{
+    display: flex;
+    align-items: end;
+    margin-left: 74px;
+    margin-top: 20px;
+}
+
+.whatToWatchTitle{
+    color: rgb(255, 183, 0);
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-left: 60px;
+}
+.toWatchCardsBar{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    width: 80%;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.seeMoreButtonContainer{
+    margin-top: 15px;
+    margin-left: 700px;
+}
+
+.seeMore{
+    height: 35px;
+    border: 1px;
+    background-color: rgb(114, 124, 132);
+    color: white;
+    border-radius: 5px;
+}
+.seeMore:hover{
+    background-color:  rgb(89, 96, 101);
+}
