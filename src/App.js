@@ -10,6 +10,7 @@ import RegistationFile from './pages/RegistationForm/RegistationFile';
 import PersonalViewHome from './pages/PersonalViewHome/PersonalViewHome';
 import Home from './pages/Home/Home';
 import Login from './pages/Login/Login';
+import Result from './pages/Result/Result';
 
 
 function App() {
@@ -29,6 +30,7 @@ function App() {
            <Route exact path="/RegistationFile" element={<RegistationFile/>}></Route>
            <Route exact path="/PersonalViewHome" element={<PersonalViewHome/>}></Route>
            <Route exact path="/Login" element={<Login/>}></Route>
+           <Route exact path="/Result" element={<Result/>}></Route>
 
          </Routes>
        </div>

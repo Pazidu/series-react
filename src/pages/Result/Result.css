@@ -1,54 +1,4 @@
-.navigationBar{
-    background-color: rgb(75, 75, 75);
-    height: 50px;
-    margin-top: 0;
-}
-
-.title{
-    color: aliceblue;
-}
-
-.signTitle{
-    display: flex;
-    align-items: center;
-    color: aliceblue;
-    margin-left: 250px;
-}
-
-.profilePic{
-    height: 32px;
-    width: 32px;
-    border-radius: 50%;
-    margin-right: 10px;
-}
-
-.logoImage{
-    height: 40px;
-    width: 60px;
-    border-radius: 5px;
-}
-
-#navbarScrollingDropdown{
-    color: aliceblue;
-}
-
-.searchButton{
-    color: aliceblue;
-    background-color: black;
-    border: none;
-}
-.searchButton:hover{
-    color: rgb(0, 0, 0);
-    background-color: rgb(255, 166, 0);
-    
-}
-.searchBar{
-    background-color: rgb(145, 145, 145);
-}
-
-
-
-/* body{
+body{
     background: #000;
 }
 
@@ -90,6 +40,4 @@
     padding: 15px 10px 0;
     margin-top: auto;
     font-family: sans-serif;
-} */
-
-
+}
