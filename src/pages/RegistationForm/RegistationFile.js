@@ -56,7 +56,7 @@ export default function RegistationFile() {
           <Form.Group className="mb-3" controlId="formBasicCheckbox">
             <Form.Check type="checkbox" label="Agree to terms and conditions" required/>
           </Form.Group>
-          <Link to='./Login'>
+          <Link to='/Login'>
             <Button variant="primary" type="submit">
               Submit
             </Button>
