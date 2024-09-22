@@ -57,9 +57,9 @@ export default function Navigation(props) {
               <Nav.Link as={Link} to="/About">
                 <span className="title">About</span>
               </Nav.Link>
-              <Nav.Link as={Link} to="/ContactUs">
+              {/* <Nav.Link as={Link} to="/ContactUs">
                 <span className="title">Contact Us</span>
-              </Nav.Link>
+              </Nav.Link> */}
               <NavDropdown title="Menu" id="navbarScrollingDropdown">
                 <NavDropdown.Item as={Link} to="/Tvseries">
                   TV series
